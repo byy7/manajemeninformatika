@@ -1,0 +1,4 @@
+CARA MEMBUKA FILE :
+1. Hidupkan XAMPP, kemudian start apache dan mysql
+2. Pindahkan folder desainweb_faraby ke dalam folder xampp/htdocs/(paste di sini)
+3. Buka code editor dan buka folder desainweb_faraby kemudian buka index.html dengan menggunakan browser
